@@ -1,0 +1,23 @@
+/*
+*/
+@font-face {
+    font-family: minombre;
+    src: url("......");
+}
+
+.minombre{font-family: minombre;}
+
+/*general Layout*/
+.bg-vani{background-color: rgb(133, 247, 255);}
+
+.bg-naranja{background-color: #ff715b93;}
+.bg-blanco{background-color: #595A9A;}
+.bg-verde{background-color: #1EA896;}
+.bg-marron{background-color: #523F38;}
+.bg-gris{background-color: #4C5454;}
+
+.bg-naranja2{background-color: #FF715B;}
+
+/*nav style*/
+#logo{width:100px;}
+.navbar{z-index:99;}
